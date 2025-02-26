@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a french PhD student in astrophysical signal processing.
+- 🔭 I’m currently working on the development of detection algorithms for Fast Radio Bursts
 <!--
 **BenAmblard/BenAmblard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
